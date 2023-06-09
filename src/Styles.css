@@ -2,3 +2,49 @@
     background-color: yellow;
     color:blue;
 }
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.header {
+    background-color: navy;
+    color: white;
+    text-align: center;
+}
+.menu a{
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+    font-size: 20px;
+}
+.about h1{
+    text-align: center;
+}
+.about img{
+    width: 250px;
+}
+.about p{
+    text-align: justify;
+}
+.about{
+    text-align: center;
+}
+.section h1{
+  text-align: center;
+}
+
+.footer{
+    background-color: navy;
+    color:white;
+    text-align: center;
+}
+.footer h3{
+    text-align: start;
+}
+.footer a{
+    color:white;
+    text-decoration: none;
+    padding: 10px;
+    font-size: 20px;
+}
